@@ -1,0 +1,1 @@
+This project is a Master Mind game developed as part of The Odin Project curriculum.
